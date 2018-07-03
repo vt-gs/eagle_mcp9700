@@ -1,1 +1,3 @@
-VTGS Github Repo
+<b>VTGS Github Repo Project</b>
+<p>
+MCP9700 based temperature sensor project.  Designed to be screwed down to the device whose temperature is being monitored (i.e. a heatsink).
